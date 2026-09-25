@@ -73,14 +73,6 @@ Halloween-Tableau-Dashboard/
     └── dashboard_preview.png
 ```
 
-> 
-<img width="1746" height="757" alt="Screenshot 2026-09-15 114714" src="https://github.com/user-attachments/assets/9b22220d-0e17-4efb-bbf5-effd04229bd4" />
-
-## 🌐 Tableau Public
-
-The interactive version of this dashboard is available on Tableau Public:
-
-**[Halloween Dashboard – Tableau Public](https://public.tableau.com/app/profile/robisha.raj/viz/halloween_dashboard_17894517626200/Dashboard6?publish=yes)**
 
 ## 👩‍💻 Author
 
